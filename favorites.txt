@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 beans
 brocoloi
 tommato
+=======
+Shawshank redumption
+seven
+Godfather
+>>>>>>> movies
